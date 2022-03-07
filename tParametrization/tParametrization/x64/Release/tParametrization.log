@@ -1,6 +1,0 @@
-﻿  arrayGeometry.cpp
-  tParametrization.cpp
-D:\tParametrization\tParametrization\tParametrization\tParametrization.cpp(138,29): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
-D:\tParametrization\tParametrization\tParametrization\tParametrization.cpp(138,29): message : 请考虑在格式字符串中使用“%zd”
-D:\tParametrization\tParametrization\tParametrization\tParametrization.cpp(166,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-  tParametrization.vcxproj -> D:\tParametrization\tParametrization\x64\Release\tParametrization.lib
